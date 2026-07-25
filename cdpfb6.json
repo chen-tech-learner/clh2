@@ -3,10 +3,10 @@
     "version": "1.0",
     "parses": [
         {
-            "key": "mjv合集",
-            "name": "四百线路影视源",
+            "key": "瓜子",
+            "name": "瓜子影视",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/mjv.py",
+            "api": "https://cdn.jsdelivr.net/gh/chen-tech-learner/clh2@main/guazi.py",
             "searchable": 1,
             "filterable": 1
         }
