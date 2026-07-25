@@ -1,0 +1,16 @@
+{
+    "name": "影视配置",
+    "version": "1.0",
+    "parses": [
+        {
+            "key": "mjv合集",
+            "name": "四百线路影视源",
+            "type": 3,
+            "api": "shturl.cc/wltailirTybhttps://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/mjv011四百个个分类%20(1).py",
+            "searchable": 1,
+            "filterable": 1
+        }
+    ],
+    "lives": [],
+    "sites": []
+}
