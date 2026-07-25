@@ -6,7 +6,7 @@
             "key": "瓜子",
             "name": "瓜子影视",
             "type": 3,
-            "api": "https://cdn.jsdelivr.net/gh/chen-tech-learner/clh2@main/瓜子.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/瓜子.py",
             "searchable": 1,
             "filterable": 1
         }
