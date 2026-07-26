@@ -3,7 +3,7 @@
     "version": "1.0",
     "parses": [
         {
-            "key": "瓜子",
+            "key": "瓜子.py",
             "name": "瓜子影视",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/瓜子.py",
