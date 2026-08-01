@@ -1,16 +1,48 @@
 {
-    "name": "影视配置",
-    "version": "1.0",
-    "parses": [
+    "sites": [
         {
-            "key": "51吸瓜动态版.py",
-            "name": "51影视",
+           "key": "豆儿猫源",
+           "name": "豆儿猫源",
+           "type": 3,
+           "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+            "searchable": 1
+       },
+       {
+           "key": "牛二猫源",
+           "name": "牛二猫源",
+           "type": 3,
+           "api": "https://9280.kstore.vip/cat/index.js",
+            "searchable": 1
+      },
+      {
+          "key": "4TV解析",
+          "name": "4TV解析",
+          "type": 3,
+          "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+           "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+           "searchable": 1
+      },
+      {
+            "key": "雪乃猫源",
+            "name": "雪乃猫源",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/51%E5%90%B8%E7%93%9C%E5%8A%A8%E6%80%81%E7%89%88.py",
+            "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+            "searchable": 1
+       },
+       {
+            "key": "Lmentor猫源",
+            "name": "Lmentor猫源",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+            "searchable": 1
+        },
+        {
+            "key": "刁民",
+            "name": "刁民自制.py",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/clh2/refs/heads/main/%E5%88%81%E6%B0%91%E8%87%AA%E5%88%B6.py",
             "searchable": 1,
             "filterable": 1
         }
-    ],
-    "lives": [],
-    "sites": []
+    ]
 }
