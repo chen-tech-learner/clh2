@@ -15,14 +15,6 @@
       "searchable": 1
     },
     {
-      "key": "4TV解析",
-      "name": "4TV解析",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
-      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
-      "searchable": 1
-    },
-    {
       "key": "雪乃猫源",
       "name": "雪乃猫源",
       "type": 3,
@@ -44,83 +36,105 @@
       "searchable": 0,
       "quickSearch": 0
     },
-      {
-            "key": "aidan",
-            "name": "🦋 [伦理]艾旦影视采集🔞",
-            "type": 1,
-            "api": "https://lovedan.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "",
-            "category": "福利"
-        },
-        {
-            "key": "U酷資源",
-            "name": "🦋 [伦理]U酷資源🔞",
-            "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "",
-            "category": "福利"
-        },
-        {
-            "key": "虎牙资源",
-            "name": "🦋 [伦理]虎牙资源🔞",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "",
-            "category": "福利"
-        },
-        {
-            "key": "ttzy",
-            "name": "🦋 [伦理]天天影视🔞",
-            "type": 1,
-            "api": "https://api.1080zyku.com/inc/apijson.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "",
-            "category": "福利"
-        },
-        {
-            "key": "天涯资源",
-            "name": "🦋 [伦理]天涯资源🔞",
-            "type": 0,
-            "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "",
-            "category": "福利"
-        },
-         {
-        "key": "自动加载",
-        "name": "自动加载.py",
-        "type": 3,
-        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD688.json"
-        },
-        {
-            "key": "iKun资源",
-            "name": "🦋 [伦理]iKun资源🔞",
-            "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "",
-            "category": "福利"
-        },
-        {
-        "key": "松视开通2",
-        "name": "松视2",
-        "type": 0,
-        "api": "https://www.gdlsp.com/api/xml.php",
-        "searchable": 0,
-        "quickSearch": 0
+    {
+      "key": "自动加载",
+      "name": "自动加载.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD688.json"
+    },
+    {
+      "key": "4TV解析",
+      "name": "4TV解析",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+      "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+      "searchable": 1
+    },
+    {
+      "key": "aidan",
+      "name": "🦋 [伦理]艾旦影视采集🔞",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "U酷資源",
+      "name": "🦋 [伦理]U酷資源🔞",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "虎牙资源",
+      "name": "🦋 [伦理]虎牙资源🔞",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "ttzy",
+      "name": "🦋 [伦理]天天影视🔞",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "麻豆",
+      "name": "麻豆.js",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/%E9%BA%BB%E8%B1%86.js",
+      "searchable": 1
+    },
+    {
+      "key": "布布追剧",
+      "name": "布布追剧js",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/%E5%B8%83%E5%B8%83%E8%BF%BD%E5%89%A7.js",
+      "searchable": 1
+    },
+    {
+      "key": "天涯资源",
+      "name": "🦋 [伦理]天涯资源🔞",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "iKun资源",
+      "name": "🦋 [伦理]iKun资源🔞",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "",
+      "category": "福利"
+    },
+    {
+      "key": "松视开通2",
+      "name": "松视2",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
     }
   ]
 }
