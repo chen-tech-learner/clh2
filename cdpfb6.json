@@ -98,6 +98,12 @@
             "ext": "",
             "category": "福利"
         },
+         {
+        "key": "自动加载",
+        "name": "自动加载.py",
+        "type": 3,
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/%E8%87%AA%E5%8A%A8%E5%8A%A0%E8%BD%BD688.json"
+        },
         {
             "key": "iKun资源",
             "name": "🦋 [伦理]iKun资源🔞",
