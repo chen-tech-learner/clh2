@@ -51,6 +51,13 @@
       "searchable": 1
     },
     {
+     "key": "heiapi",
+     "name": "黑API公共源",
+     "type": 0,
+     "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
+     "searchable": 1
+    },
+    {
       "key": "aidan",
       "name": "🦋 [伦理]艾旦影视采集🔞",
       "type": 1,
