@@ -44,13 +44,77 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "松视开通2",
-      "name": "松视2",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
+      {
+            "key": "aidan",
+            "name": "🦋 [伦理]艾旦影视采集🔞",
+            "type": 1,
+            "api": "https://lovedan.net/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+            "key": "U酷資源",
+            "name": "🦋 [伦理]U酷資源🔞",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+            "key": "虎牙资源",
+            "name": "🦋 [伦理]虎牙资源🔞",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+            "key": "ttzy",
+            "name": "🦋 [伦理]天天影视🔞",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+            "key": "天涯资源",
+            "name": "🦋 [伦理]天涯资源🔞",
+            "type": 0,
+            "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+            "key": "iKun资源",
+            "name": "🦋 [伦理]iKun资源🔞",
+            "type": 0,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "",
+            "category": "福利"
+        },
+        {
+        "key": "松视开通2",
+        "name": "松视2",
+        "type": 0,
+        "api": "https://www.gdlsp.com/api/xml.php",
+        "searchable": 0,
+        "quickSearch": 0
     }
   ]
 }
