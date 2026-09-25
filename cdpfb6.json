@@ -2,7 +2,7 @@
   "spider": "https://meow.668yun.top/c/SqTbZPqGOLkq/app.jar",
   "sites": [
     {
-      "name": "🔥豆瓣┃推荐",
+      "name": "🔥全网｜影视合集🔥",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -13,8 +13,8 @@
       "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
     },
     {
-      "key": "美少女",
-      "name": "🔞美少女",
+      "key": "meishaonu",
+      "name": "🔥全网｜影视合集🔥1",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -22,8 +22,8 @@
       "filterable": 1
     },
     {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
+      "key": "*yinshiji",
+      "name": "🔥全网｜影视合集🔥2",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -31,8 +31,8 @@
       "filterable": 0
     },
     {
-      "key": "*KK写真资源",
-      "name": "🔞KK写真资源-伦理",
+      "key": "*KKxiezhen",
+      "name": "🔥全网｜影视合集🔥3",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "zp059",
-      "name": "🔞番号资源",
+      "name": "🔥全网｜影视合集🔥4",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "zp100",
-      "name": "🔞乐播",
+      "name": "🔥全网｜影视合集🔥5",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "lbapi9.com",
-      "name": "成人50",
+      "name": "🔥全网｜影视合集🔥6",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "zp137",
-      "name": "🔞探探资源（慢）",
+      "name": "🔥全网｜影视合集🔥7",
       "type": 0,
       "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
@@ -78,7 +78,7 @@
     },
     {
       "key": "wmcj8.com",
-      "name": "成人07",
+      "name": "🔥全网｜影视合集🔥8",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "quickSearch": 1,
@@ -86,8 +86,8 @@
       "filterable": 1
     },
     {
-      "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
+      "key": "fanyao",
+      "name": "🔥全网｜影视合集🔥9",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -96,7 +96,7 @@
     },
     {
       "key": "apittzy.com",
-      "name": "成人47",
+      "name": "🔥全网｜影视合集🔥10",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "feifei67.com",
-      "name": "成人22",
+      "name": "🔥全网｜影视合集🔥11",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -113,8 +113,8 @@
       "filterable": 1
     },
     {
-      "key": "💞大地资源💞",
-      "name": "💞大地资源💞",
+      "key": "dadizhiyuan",
+      "name": "🔥全网｜影视合集🔥12",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -123,7 +123,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "成人36",
+      "name": "🔥全网｜影视合集🔥13",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "quickSearch": 1,
@@ -131,8 +131,8 @@
       "filterable": 1
     },
     {
-      "key": "*环亚",
-      "name": "环亚",
+      "key": "huanya",
+      "name": "🔥全网｜影视合集🔥14",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 0,
@@ -141,7 +141,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "成人44",
+      "name": "🔥全网｜影视合集🔥15",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "quickSearch": 1,
@@ -149,8 +149,8 @@
       "filterable": 1
     },
     {
-      "key": "番号资源",
-      "name": "番号资源(卡切)",
+      "key": "fhzy",
+      "name": "🔥全网｜影视合集🔥16",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -158,8 +158,8 @@
       "filterable": 0
     },
     {
-      "key": "(18+)JAV名优",
-      "name": "(18+)JAV名优",
+      "key": "18jiazhiyuan",
+      "name": "🔥全网｜影视合集🔥17",
       "type": 0,
       "api": "http://ww19.mygzycj.com/api.php?ac=list",
       "searchable": 1,
@@ -167,8 +167,8 @@
       "filterable": 0
     },
     {
-      "key": "(18+)SS资源",
-      "name": "(18+)SS资源",
+      "key": "18jiass",
+      "name": "🔥全网｜影视合集🔥18",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -177,7 +177,7 @@
     },
     {
       "key": "91md.me",
-      "name": "成人19",
+      "name": "🔥全网｜影视合集🔥19",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "quickSearch": 1,
@@ -186,7 +186,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "成人09",
+      "name": "🔥全网｜影视合集🔥20",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "quickSearch": 1,
@@ -195,7 +195,7 @@
     },
     {
       "key": "KpgxdyE",
-      "name": "黄AV资源(已修复)",
+      "name": "🔥全网｜影视合集🔥21",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
@@ -204,7 +204,7 @@
     },
     {
       "key": "zp157",
-      "name": "🔞熊猫资源",
+      "name": "🔥全网｜影视合集🔥22",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=list",
       "searchable": 1,
@@ -213,7 +213,7 @@
     },
     {
       "key": "zp116",
-      "name": "*泡芙资源",
+      "name": "🔥全网｜影视合集🔥23",
       "type": 0,
       "api": "http://zmcj88.com/api?ac=list",
       "searchable": 1,
@@ -222,7 +222,7 @@
     },
     {
       "key": "sskt1",
-      "name": "松视1",
+      "name": "🔥全网｜影视合集🔥24",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 0,
@@ -230,14 +230,14 @@
     },
     {
       "key": "heiapi",
-      "name": "黑API公共源",
+      "name": "🔥全网｜影视合集🔥25",
       "type": 0,
       "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1
     },
     {
       "key": "aidan",
-      "name": "🦋 [伦理]艾旦影视采集🔞",
+      "name": "🔥全网｜影视合集🔥26",
       "type": 1,
       "api": "https://lovedan.net/api.php/provide/vod/",
       "searchable": 1,
@@ -248,7 +248,7 @@
     },
     {
       "key": "Ukzj",
-      "name": "🦋 [伦理]U酷資源🔞",
+      "name": "🔥全网｜影视合集🔥27",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -259,7 +259,7 @@
     },
     {
       "key": "hyzy",
-      "name": "🦋 [伦理]虎牙资源🔞",
+      "name": "🔥全网｜影视合集🔥28",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -270,7 +270,7 @@
     },
     {
       "key": "ttys",
-      "name": "🦋 [伦理]天天影视🔞",
+      "name": "🔥全网｜影视合集🔥29",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "searchable": 1,
@@ -281,7 +281,7 @@
     },
     {
       "key": "tyzy",
-      "name": "🦋 [伦理]天涯资源🔞",
+      "name": "🔥全网｜影视合集🔥30",
       "type": 0,
       "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
@@ -291,7 +291,7 @@
     },
     {
       "key": "iKunzy",
-      "name": "🦋 [伦理]iKun资源🔞",
+      "name": "🔥全网｜影视合集🔥31",
       "type": 0,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -301,7 +301,7 @@
     },
     {
       "key": "sykt2",
-      "name": "松视2",
+      "name": "🔥全网｜影视合集🔥32",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 0,
@@ -311,45 +311,46 @@
   ],
   "lives": [
     {
-      "name": "综合直播",
+      "name": "📆 央卫｜电视直播📆",
       "type": 0,
       "playerType": 2,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/Trysknee01/tvbox-live/main/live.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "key": "KafLive",
-      "name": "咖啡体育",
-      "type": 3,
-      "api": "csp_KafLiveAmns",
-      "playerType": 2
+      "name": "📆 央卫｜电视直播📆1",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/jia070310/lemonTV/main/iptv-fe.m3u",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "name": "Kimentanm",
+      "name": "📆 央卫｜电视直播📆2",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "name": "虎牙一起看",
+      "name": "📆 央卫｜电视直播📆3",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "斗鱼一起看",
+      "name": "📆 央卫｜电视多直播📆4",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "url": "https://tvv.tw/raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "B站直播",
+      "name": "📆 央卫｜电视直播📆5",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "url": "http://1.94.31.214/live/live9/dgtv.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
